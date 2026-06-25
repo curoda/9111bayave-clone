@@ -44,6 +44,10 @@ These render visually but their server-side behavior is inert on a static mirror
   external; loads and works on the clone.
 - **Squarespace cart** (/cart) — auto-generated commerce cart page. The site sells nothing, so the
   page is effectively empty; checkout is inert on a static host.
+- **Cloudflare Web Analytics beacon** (`static.cloudflareinsights.com/beacon.min.js`) — observed once
+  on the home page as a `requestfailed` / `net::ERR_ABORTED`. It is not present in the mirrored
+  markup or the captured origin HTML; it is injected at runtime by a kept third-party script and the
+  request is benignly cancelled. Third-party analytics noise, no visual/functional impact.
 
 ## Source-side issues (present on the ORIGIN too — reproduced faithfully, NOT clone defects)
 
