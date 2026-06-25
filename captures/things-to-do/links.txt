@@ -1,0 +1,16 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/things-to-do#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+EXTERNAL	https://www.northbeachmd.org/welcome-center/pages/beach	https://www.northbeachmd.org/welcome-center/pages/beach
+EXTERNAL	https://www.northbeachmd.org/sites/g/files/vyhlif4786/f/uploads/2024_events_flyer.pdf	https://www.northbeachmd.org/sites/g/files/vyhlif4786/f/uploads/2024_events_flyer.pdf
+EXTERNAL	https://chesapeakebeachwaterpark.com	https://chesapeakebeachwaterpark.com/
+EXTERNAL	https://goo.gl/maps/1V9UzNXiCjevtgu89	https://goo.gl/maps/1V9UzNXiCjevtgu89
+EXTERNAL	http://boatsetter.com	http://boatsetter.com/
+EXTERNAL	http://getmyboat.com	http://getmyboat.com/
+EXTERNAL	https://www.rnrresortmd.com/marina/rentals	https://www.rnrresortmd.com/marina/rentals
+EXTERNAL	https://www.northbeachmd.org/welcome-north-beach/pages/callis-park	https://www.northbeachmd.org/welcome-north-beach/pages/callis-park
+EXTERNAL	https://www.northbeachmd.org/welcome-north-beach/pages/sunrise-garden	https://www.northbeachmd.org/welcome-north-beach/pages/sunrise-garden
+EXTERNAL	https://www.calvertcountymd.gov/3084/Northeast-Community-Center	https://www.calvertcountymd.gov/3084/Northeast-Community-Center

@@ -1,0 +1,11 @@
+FAMILIES:
+sans-serif
+Poppins
+ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"
+
+STYLESHEETS:
+https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700
+https://static1.squarespace.com/static/versioned-site-css/612cfddb01068e161788bcfa/43/5c5a519771c10ba3470d8101/612cfddb01068e161788bd14/1799/site.css?nocustom=true
+https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1782409807427-ZJXWI9ZN99PFS9VKQIEB/static.css
+https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css
+https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css

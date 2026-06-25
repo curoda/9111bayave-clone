@@ -1,0 +1,15 @@
+TITLE: Things to do — 9111 Bay Ave
+META X-UA-Compatible: IE=edge,chrome=1
+META viewport: width=device-width, initial-scale=1
+META Accept-CH: Sec-CH-UA-Platform-Version, Sec-CH-UA-Model
+META og:site_name: 9111 Bay Ave
+META og:title: Things to do — 9111 Bay Ave
+META og:url: https://www.9111bayave.com/things-to-do
+META og:type: website
+META twitter:title: Things to do — 9111 Bay Ave
+META twitter:url: https://www.9111bayave.com/things-to-do
+META twitter:card: summary
+META robots: noindex
+META ROBOTS: NOINDEX
+CANONICAL: https://www.9111bayave.com/things-to-do
+ANALYTICS_IDS: UA-40446179-2, G-92EN33TGPP, GTM-P6NGPGR

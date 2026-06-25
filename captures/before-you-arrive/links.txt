@@ -1,0 +1,11 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/before-you-arrive#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+INTERNAL	/what-is-included	https://www.9111bayave.com/what-is-included
+EXTERNAL	https://www.rolandsgrocery.com	https://www.rolandsgrocery.com/
+INTERNAL	/check-in-and-out	https://www.9111bayave.com/check-in-and-out
+EXTERNAL	https://www.airbnb.com/rooms/23503216	https://www.airbnb.com/rooms/23503216
+INTERNAL	/floor-plans	https://www.9111bayave.com/floor-plans

@@ -1,0 +1,15 @@
+FAMILIES:
+sans-serif
+Poppins
+acumin-pro
+
+STYLESHEETS:
+https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,700
+https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.form/fb99d9da-8d59-4570-a749-007088944984_867/website.components.form.styles.css
+https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/5c16e613-37cf-4282-bea3-d51d84823c35_1018/website.components.spacer.styles.css
+https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/b430cd59-8099-4735-a6de-8c58619914b8_695/website.components.html.styles.css
+https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/453a435d-b5c0-44c0-b0ab-f04050b00292_865/website.components.button.styles.css
+https://static1.squarespace.com/static/versioned-site-css/612cfddb01068e161788bcfa/43/5c5a519771c10ba3470d8101/612cfddb01068e161788bd14/1799/site.css?nocustom=true
+https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1782409807427-ZJXWI9ZN99PFS9VKQIEB/static.css
+https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css
+https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css

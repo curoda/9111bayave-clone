@@ -1,0 +1,8 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/contact-us#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+EXTERNAL	sms:+18147693741	sms:+18147693741
+EXTERNAL	sms:+12027703673	sms:+12027703673

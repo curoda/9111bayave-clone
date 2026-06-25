@@ -1,0 +1,9 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/grocery-stores#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+EXTERNAL	https://www.rolandsgrocery.com	https://www.rolandsgrocery.com/
+INTERNAL	/https://www.eatchesapeake.com/	https://www.9111bayave.com/https://www.eatchesapeake.com/
+EXTERNAL	https://www.baywineandspirits.com	https://www.baywineandspirits.com/

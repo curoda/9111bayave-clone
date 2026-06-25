@@ -1,0 +1,11 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/check-in-and-out#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+EXTERNAL	https://www.google.com/maps/place/9111+Bay+Ave,+North+Beach,+MD+20714	https://www.google.com/maps/place/9111+Bay+Ave,+North+Beach,+MD+20714
+EXTERNAL	https://maps.google.com/maps?ll=38.707467,-76.531188&z=17&t=m&hl=en&gl=US&mapclient=apiv3	https://maps.google.com/maps?ll=38.707467,-76.531188&z=17&t=m&hl=en&gl=US&mapclient=apiv3
+EXTERNAL	https://www.google.com/intl/en_US/help/terms_maps.html	https://www.google.com/intl/en_US/help/terms_maps.html
+EXTERNAL	https://www.google.com/maps/@38.7074672,-76.5311882,17z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3	https://www.google.com/maps/@38.7074672,-76.5311882,17z/data=!10m1!1e1!12b1?source=apiv3&rapsrc=apiv3
+EXTERNAL	https://www.northbeachmd.org/first-fridays	https://www.northbeachmd.org/first-fridays

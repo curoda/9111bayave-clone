@@ -1,0 +1,13 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/house-guide#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+INTERNAL	/what-is-included	https://www.9111bayave.com/what-is-included
+INTERNAL	/trash-days	https://www.9111bayave.com/trash-days
+INTERNAL	/kitchen	https://www.9111bayave.com/kitchen
+INTERNAL	/rooftop-deck	https://www.9111bayave.com/rooftop-deck
+INTERNAL	/elevator	https://www.9111bayave.com/elevator
+INTERNAL	/tvs	https://www.9111bayave.com/tvs
+INTERNAL	/thermostats	https://www.9111bayave.com/thermostats
