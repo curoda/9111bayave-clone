@@ -117,6 +117,13 @@ def should_localize(url):
 def download(url, content_type_hint=''):
     if url in _downloaded:
         return _downloaded[url]
+    # disk cache: if already downloaded in a prior run, reuse it (still process CSS)
+    probe = local_path_for(url, content_type_hint)
+    if os.path.exists(probe) and os.path.getsize(probe) > 0:
+        _downloaded[url] = probe
+        if probe.endswith('.css'):
+            process_css_file(probe, url)
+        return probe
     try:
         data, ct = fetch_bytes(url)
     except Exception as e:
@@ -247,6 +254,9 @@ def rewrite_internal_links(html):
     html = html.replace('href="https://www.9111bayave.com', 'href="')
     html = html.replace('href="http://www.9111bayave.com', 'href="')
     html = re.sub(r'href="/home"', 'href="/"', html)
+    # Fix canonical that the blanket strip emptied (home page bare-domain canonical).
+    html = html.replace('<link rel="canonical" href="">', '<link rel="canonical" href="/">')
+    html = re.sub(r'(rel="canonical"[^>]*href=)""', r'\1"/"', html)
     return html
 
 def process_page(slug, url):

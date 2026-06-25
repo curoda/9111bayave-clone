@@ -1,0 +1,227 @@
+[
+ {
+  "slug": "home",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/",
+  "bad": [
+   {
+    "type": "requestfailed",
+    "url": "https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447",
+    "err": "net::ERR_ABORTED"
+   },
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "beach",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/beach",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "before-you-arrive",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/before-you-arrive",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "check-in-and-out",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/check-in-and-out",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "connect-to-wifi",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/connect-to-wifi",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "contact-us",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/contact-us",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "elevator",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/elevator",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "floor-plans",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/floor-plans",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "grocery-stores",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/grocery-stores",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "house-guide",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/house-guide",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "kitchen",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/kitchen",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "restaurants",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/restaurants",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "rooftop-deck",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/rooftop-deck",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "thermostats",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/thermostats",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "things-to-do",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/things-to-do",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "trash-days",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/trash-days",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "tvs",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/tvs",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "wakefield-chatbot",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/wakefield-chatbot",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "what-is-included",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/what-is-included",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ },
+ {
+  "slug": "cart",
+  "cloneUrl": "https://9111bayave-clone.vercel.app/cart",
+  "bad": [
+   {
+    "type": "response",
+    "status": 404,
+    "url": "https://9111bayave-clone.vercel.app/api/census/RecordHit"
+   }
+  ]
+ }
+]

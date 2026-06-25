@@ -1,0 +1,342 @@
+[
+ {
+  "slug": "home",
+  "dd": {
+   "pct": 2.215911997953441,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 1303,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 0.14620196604110813,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 373,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "beach",
+  "dd": {
+   "pct": 0.7965300849021779,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 903,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 7.104453441295546,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 247,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "before-you-arrive",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1179,
+   "heightClone": 1179,
+   "w": 1440,
+   "h": 1179
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 336,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "check-in-and-out",
+  "dd": {
+   "pct": 4.158245614035088,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 760,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 19.25610056354982,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 196,
+   "h": 1492
+  }
+ },
+ {
+  "slug": "connect-to-wifi",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1151,
+   "heightClone": 1151,
+   "w": 1440,
+   "h": 1151
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1212,
+   "heightClone": 1212,
+   "w": 390,
+   "h": 1212
+  }
+ },
+ {
+  "slug": "contact-us",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1220,
+   "heightClone": 1220,
+   "w": 1440,
+   "h": 1220
+  },
+  "dm": {
+   "pct": 1.0594183502219956,
+   "heightOrig": 1207,
+   "heightClone": 1207,
+   "w": 390,
+   "h": 1207
+  }
+ },
+ {
+  "slug": "elevator",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 900,
+   "heightClone": 900,
+   "w": 1440,
+   "h": 900
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1087,
+   "heightClone": 1087,
+   "w": 390,
+   "h": 1087
+  }
+ },
+ {
+  "slug": "floor-plans",
+  "dd": {
+   "pct": 5.63748031496063,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 635,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 5.753041362530413,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 274,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "grocery-stores",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 952,
+   "heightClone": 952,
+   "w": 1440,
+   "h": 952
+  },
+  "dm": {
+   "pct": 1.1770627876397106,
+   "heightOrig": 1251,
+   "heightClone": 1248,
+   "w": 390,
+   "h": 1248
+  }
+ },
+ {
+  "slug": "house-guide",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1479,
+   "heightClone": 1479,
+   "w": 1440,
+   "h": 1479
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1206,
+   "heightClone": 1205,
+   "w": 390,
+   "h": 1205
+  }
+ },
+ {
+  "slug": "kitchen",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 1172,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 311,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "restaurants",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 1060,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 0.524416135881104,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 157,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "rooftop-deck",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1404,
+   "heightClone": 1404,
+   "w": 1440,
+   "h": 1404
+  },
+  "dm": {
+   "pct": 2.5394915597178866,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 372,
+   "h": 1488
+  }
+ },
+ {
+  "slug": "thermostats",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 900,
+   "heightClone": 900,
+   "w": 1440,
+   "h": 900
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 911,
+   "heightClone": 911,
+   "w": 390,
+   "h": 911
+  }
+ },
+ {
+  "slug": "things-to-do",
+  "dd": {
+   "pct": 5.763888888888889,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 792,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 22.934615384615384,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 104,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "trash-days",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1236,
+   "heightClone": 1236,
+   "w": 1440,
+   "h": 1236
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1114,
+   "heightClone": 1114,
+   "w": 390,
+   "h": 1114
+  }
+ },
+ {
+  "slug": "tvs",
+  "dd": {
+   "pct": 5.8859296482412065,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 796,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 7.722142857142857,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 280,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "wakefield-chatbot",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 900,
+   "heightClone": 900,
+   "w": 1440,
+   "h": 900
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 844,
+   "heightClone": 844,
+   "w": 390,
+   "h": 844
+  }
+ },
+ {
+  "slug": "what-is-included",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 778,
+   "h": 1500
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 1500,
+   "heightClone": 1500,
+   "w": 198,
+   "h": 1500
+  }
+ },
+ {
+  "slug": "cart",
+  "dd": {
+   "pct": 0,
+   "heightOrig": 900,
+   "heightClone": 900,
+   "w": 1440,
+   "h": 900
+  },
+  "dm": {
+   "pct": 0,
+   "heightOrig": 844,
+   "heightClone": 844,
+   "w": 390,
+   "h": 844
+  }
+ }
+]
