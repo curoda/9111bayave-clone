@@ -1,0 +1,19 @@
+# External links found across the site (recorded as-is, NOT followed/scraped). Same-domain only is cloned.
+# Slug mapping: home -> / ; /home also serves homepage.
+EXTERNAL  http://boatsetter.com
+EXTERNAL  http://getmyboat.com
+EXTERNAL  https://chesapeakebeachwaterpark.com
+EXTERNAL  https://forecast7.com/en/38d71n76d53/north-beach/?unit=us
+EXTERNAL  https://goo.gl/maps/1V9UzNXiCjevtgu89
+EXTERNAL  https://www.airbnb.com/rooms/23503216
+EXTERNAL  https://www.baywineandspirits.com
+EXTERNAL  https://www.calvertcountymd.gov/3084/Northeast-Community-Center
+EXTERNAL  https://www.google.com/maps/place/9111+Bay+Ave,+North+Beach,+MD+20714
+EXTERNAL  https://www.northbeachmd.org/first-fridays
+EXTERNAL  https://www.northbeachmd.org/sites/g/files/vyhlif4786/f/uploads/2024_events_flyer.pdf
+EXTERNAL  https://www.northbeachmd.org/welcome-center/pages/beach
+EXTERNAL  https://www.northbeachmd.org/welcome-north-beach/pages/callis-park
+EXTERNAL  https://www.northbeachmd.org/welcome-north-beach/pages/sunrise-garden
+EXTERNAL  https://www.rnrresortmd.com/marina/rentals
+EXTERNAL  https://www.rolandsgrocery.com
+# NOTE: source-side broken link found: href="https://www.9111bayave.com/https://www.eatchesapeake.com/" (malformed on origin -> 404). See DISCREPANCIES.md

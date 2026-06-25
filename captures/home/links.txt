@@ -1,0 +1,14 @@
+INTERNAL	/cart	https://www.9111bayave.com/cart
+INTERNAL	#page	https://www.9111bayave.com/#page
+INTERNAL	/	https://www.9111bayave.com/
+INTERNAL	/before-you-arrive	https://www.9111bayave.com/before-you-arrive
+INTERNAL	/house-guide	https://www.9111bayave.com/house-guide
+INTERNAL	/contact-us	https://www.9111bayave.com/contact-us
+INTERNAL	/check-in-and-out	https://www.9111bayave.com/check-in-and-out
+INTERNAL	/connect-to-wifi	https://www.9111bayave.com/connect-to-wifi
+INTERNAL	/floor-plans	https://www.9111bayave.com/floor-plans
+INTERNAL	/restaurants	https://www.9111bayave.com/restaurants
+INTERNAL	/grocery-stores	https://www.9111bayave.com/grocery-stores
+INTERNAL	/beach	https://www.9111bayave.com/beach
+INTERNAL	/things-to-do	https://www.9111bayave.com/things-to-do
+EXTERNAL	https://forecast7.com/en/38d71n76d53/north-beach/?unit=us	https://forecast7.com/en/38d71n76d53/north-beach/?unit=us
