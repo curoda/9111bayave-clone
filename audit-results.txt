@@ -1,0 +1,43 @@
+home                 issues: 2
+    requestfailed  https://static.cloudflareinsights.com/beacon.min.js/v833ccba57c9e4d2798f2e76cebdd09a11778172276447 net::ERR_ABORTED
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+beach                issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+before-you-arrive    issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+check-in-and-out     issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+connect-to-wifi      issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+contact-us           issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+elevator             issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+floor-plans          issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+grocery-stores       issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+house-guide          issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+kitchen              issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+restaurants          issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+rooftop-deck         issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+thermostats          issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+things-to-do         issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+trash-days           issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+tvs                  issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+wakefield-chatbot    issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+what-is-included     issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+cart                 issues: 1
+    response 404 https://9111bayave-clone.vercel.app/api/census/RecordHit 
+
+AUDIT DONE. pages with issues: 20
